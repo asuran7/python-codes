@@ -1,0 +1,11 @@
+A=[1,2,3,4,'a']
+
+try:
+
+    t=sum(A)
+
+    print(t)
+
+except:
+
+   print("it contains an non numeeric value")
