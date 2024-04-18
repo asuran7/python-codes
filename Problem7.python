@@ -1,0 +1,13 @@
+A={None}
+
+try:
+
+    average=sum(A.values())
+
+    avg/=2
+
+    print("average of these marks are:", average)
+
+except:
+
+    print("The dictionary is empty")
