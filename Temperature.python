@@ -1,0 +1,3 @@
+cel = int(input("Enter the Temperature in Celsius :\n"))
+fahr = (1.8 * cel) + 36
+print("Temperature in Fahrenheit :", fahr)
